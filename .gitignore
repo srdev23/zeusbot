@@ -14,4 +14,4 @@ dist
 /src/data
 /src/logs/logs
 
-/src/test.ts
+test.ts
